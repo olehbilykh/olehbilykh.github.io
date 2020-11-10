@@ -231,14 +231,18 @@ h3 {
 .form-group {
     padding: 15px 0;
 }
-
+#text-name-id{
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+}
 input[type="text"] {
     padding: 20px 10px;
 }
 
 /* mediaqueries */
 
-@media only screen and (max-width:400px) {
+@media only screen and (max-width:680px) {
     .sidebar {
         display: none;
     }
