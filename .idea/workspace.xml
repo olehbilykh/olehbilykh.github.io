@@ -51,7 +51,11 @@
       <workItem from="1604997600125" duration="6657000" />
       <workItem from="1605011488100" duration="61000" />
       <workItem from="1605011661798" duration="1838000" />
+<<<<<<< HEAD
       <workItem from="1605014535470" duration="450000" />
+=======
+      <workItem from="1605014535470" duration="304000" />
+>>>>>>> d6557757017d6723b103727dac14acaba4dbb0fd
     </task>
     <task id="LOCAL-00001" summary="responsive">
       <created>1604968031613</created>
@@ -142,15 +146,23 @@
       <screen x="0" y="1080" width="1920" height="1050" />
     </state>
     <state x="690" y="1351" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.1080.1920.1050/0.0.1920.1050@0.1080.1920.1050" timestamp="1604996660030" />
+<<<<<<< HEAD
     <state x="584" y="93" key="CommitChangelistDialog2" timestamp="1605014808794">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="584" y="93" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1605014808794" />
+=======
+    <state x="584" y="93" key="CommitChangelistDialog2" timestamp="1605011517388">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="584" y="93" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1605011517388" />
+>>>>>>> d6557757017d6723b103727dac14acaba4dbb0fd
     <state x="584" y="1173" key="CommitChangelistDialog2/0.1080.1920.1050/0.0.1920.1050@0.1080.1920.1050" timestamp="1605006066438" />
     <state x="740" y="1346" key="FileChooserDialogImpl" timestamp="1604996641325">
       <screen x="0" y="1080" width="1920" height="1050" />
     </state>
     <state x="740" y="1346" key="FileChooserDialogImpl/0.1080.1920.1050/0.0.1920.1050@0.1080.1920.1050" timestamp="1604996641325" />
+<<<<<<< HEAD
     <state x="124" y="289" key="MultipleFileMergeDialog" timestamp="1605014831685">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -159,6 +171,12 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605014837013" />
+=======
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1605011524090">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605011524090" />
+>>>>>>> d6557757017d6723b103727dac14acaba4dbb0fd
     <state x="552" y="1337" key="Vcs.Push.Dialog.v2/0.1080.1920.1050/0.0.1920.1050@0.1080.1920.1050" timestamp="1605006059165" />
   </component>
 </project>
