@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f26554d-6234-4970-a500-ffe9b4388bd5" name="Default Changelist" comment="last?">
-      <change beforePath="$PROJECT_DIR$/css/jquery.pagepiling.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/jquery.pagepiling.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +56,8 @@
       <workItem from="1605011661798" duration="1838000" />
       <workItem from="1605014535470" duration="450000" />
       <workItem from="1605014997187" duration="258000" />
+      <workItem from="1605026136517" duration="25000" />
+      <workItem from="1605027742860" duration="151000" />
     </task>
     <task id="LOCAL-00001" summary="responsive">
       <created>1604968031613</created>
