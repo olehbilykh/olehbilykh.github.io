@@ -2,8 +2,8 @@ $(document).ready(function () {
     $('#pagepiling').pagepiling({
         menu: null,
         direction: 'vertical',
-        sectionsColor: ['#f1f2f6', '#f1f2f6', '#f1f2f6', '#f1f2f6', '#f1f2f6'],
-        anchors: ['home-sec', 'about-sec', 'service-sec', 'project-sec', 'testimony-sec', 'contact-sec'],
+        sectionsColor: ['#f1f2f6', '#f1f2f6', '#f1f2f6', '#f1f2f6'],
+        anchors: ['home-sec', 'about-sec', 'service-sec', 'contact-sec'], //'project-sec' 'testimpny-sec'
         menu: '#myMenu',
         scrollingSpeed: 700,
         easing: 'swing',

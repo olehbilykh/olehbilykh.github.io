@@ -108,7 +108,7 @@ h3 {
 
 
 #pp-nav span {
-    
+
 
 }
 
@@ -181,28 +181,30 @@ h3 {
 }
 
 /*!* projects *!*/
-/*#project-sec .card-wrapper {*/
-/*    padding-top: 15px;*/
-/*    padding-bottom: 15px;*/
-/*}*/
+#project-sec .card-wrapper {
+    display: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
 
 /*!* Testimony *!*/
-/*.card {*/
-/*    border: none;*/
-/*    margin: 0 5px;*/
-/*}*/
+.card {
+    display: none;
+    border: none;
+    margin: 0 5px;
+}
 
-/*.card-img-top {*/
-/*    width: 150px;*/
-/*    height: 150px;*/
-/*    border-radius: 50%;*/
-/*    object-fit: cover;*/
-/*    margin: 10px auto;*/
-/*}*/
+.card-img-top {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 10px auto;
+}
 
-/*.card-body {*/
-/*    text-align: center;*/
-/*}*/
+.card-body {
+    text-align: center;
+}
 
 /* Contact */
 .contact-form h1 {
@@ -225,18 +227,20 @@ h3 {
 .form-group {
     padding: 15px 0;
 }
-#text-name-id{
+
+#text-name-id {
     border: 2px solid black;
     border-radius: 20px;
     text-align: center;
 }
+
 input[type="text"] {
     padding: 20px 10px;
 }
 
 /* mediaqueries */
 
-@media only screen and (max-width:680px) {
+@media only screen and (max-width: 680px) {
     .sidebar {
         display: none;
     }
