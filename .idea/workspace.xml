@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f26554d-6234-4970-a500-ffe9b4388bd5" name="Default Changelist" comment="last?">
+    <list default="true" id="9f26554d-6234-4970-a500-ffe9b4388bd5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -39,7 +39,18 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/olehbilykh.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -58,6 +69,12 @@
       <workItem from="1605014997187" duration="258000" />
       <workItem from="1605026136517" duration="25000" />
       <workItem from="1605027742860" duration="151000" />
+      <workItem from="1605027937463" duration="715000" />
+      <workItem from="1605221605020" duration="10000" />
+      <workItem from="1606205608732" duration="661000" />
+      <workItem from="1606210144926" duration="334000" />
+      <workItem from="1606317932338" duration="920000" />
+      <workItem from="1606319398587" duration="1164000" />
     </task>
     <task id="LOCAL-00001" summary="responsive">
       <created>1604968031613</created>
@@ -129,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605014767204</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="last?">
+      <created>1605028160177</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605028160177</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,10 +172,14 @@
       <screen x="0" y="1080" width="1920" height="1050" />
     </state>
     <state x="690" y="1351" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.1080.1920.1050/0.0.1920.1050@0.1080.1920.1050" timestamp="1604996660030" />
-    <state x="584" y="93" key="CommitChangelistDialog2" timestamp="1605014808794">
+    <state x="707" y="380" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1606210271932">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="584" y="93" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1605014808794" />
+    <state x="707" y="380" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050@0.0.1920.1050" timestamp="1606210271932" />
+    <state x="584" y="93" key="CommitChangelistDialog2" timestamp="1605028159182">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="584" y="93" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1605028159182" />
     <state x="584" y="1173" key="CommitChangelistDialog2/0.1080.1920.1050/0.0.1920.1050@0.1080.1920.1050" timestamp="1605006066438" />
     <state x="740" y="1346" key="FileChooserDialogImpl" timestamp="1604996641325">
       <screen x="0" y="1080" width="1920" height="1050" />
@@ -161,10 +189,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="124" y="289" key="MultipleFileMergeDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605014831685" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1605014837013">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1605028161784">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605014837013" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605028161784" />
     <state x="552" y="1337" key="Vcs.Push.Dialog.v2/0.1080.1920.1050/0.0.1920.1050@0.1080.1920.1050" timestamp="1605006059165" />
+    <state x="777" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606318107245">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="777" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1606318107245" />
   </component>
 </project>
