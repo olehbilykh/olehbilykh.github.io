@@ -14,9 +14,9 @@ $(document).ready(function () {
 
     // filterizr
 
-    var filterizd = $('.filter-container').filterizr({
-        animationDuration: .5
-    });
+    // var filterizd = $('.filter-container').filterizr({
+    //     animationDuration: .5
+    // });
 
     // Slick slider
     $('.slider').slick({
