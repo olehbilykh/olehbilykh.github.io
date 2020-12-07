@@ -1,9 +1,9 @@
 $(document).ready(function () {
     $('#pagepiling').pagepiling({
-        menu: null,
+        // menu: null,
         direction: 'vertical',
         sectionsColor: ['#f1f2f6', '#f1f2f6', '#f1f2f6', '#f1f2f6', '#f1f2f6'],
-        anchors: ['home-sec', 'about-sec', 'service-sec', 'project-sec', 'testimony-sec', 'contact-sec'],
+        anchors: ['home-sec', 'about-sec', 'service-sec', 'project-sec', 'contact-sec'],
         menu: '#myMenu',
         scrollingSpeed: 700,
         easing: 'swing',

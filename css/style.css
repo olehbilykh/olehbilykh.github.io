@@ -192,24 +192,6 @@ h3 {
     padding-bottom: 15px;
 }
 
-/* Testimony */
-.card {
-    border: none;
-    margin: 0 5px;
-}
-
-.card-img-top {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin: 10px auto;
-}
-
-.card-body {
-    text-align: center;
-}
-
 /* Contact */
 .contact-form h1 {
     margin-bottom: 8%;
