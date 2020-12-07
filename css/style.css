@@ -106,9 +106,15 @@ h3 {
     width: calc(100% - 300px);
 }
 
-
 #pp-nav span {
-
+    top: 2px;
+    left: 2px;
+    width: 7px;
+    height: 7px;
+    border: 1px solid black;
+    position: absolute;
+    z-index: 1;
+    border-radius: 0;
 
 }
 
@@ -180,16 +186,14 @@ h3 {
     right: 10px;
 }
 
-/*!* projects *!*/
+/* projects */
 #project-sec .card-wrapper {
-    display: none;
     padding-top: 15px;
     padding-bottom: 15px;
 }
 
-/*!* Testimony *!*/
+/* Testimony */
 .card {
-    display: none;
     border: none;
     margin: 0 5px;
 }
@@ -228,19 +232,13 @@ h3 {
     padding: 15px 0;
 }
 
-#text-name-id {
-    border: 2px solid black;
-    border-radius: 20px;
-    text-align: center;
-}
-
 input[type="text"] {
     padding: 20px 10px;
 }
 
 /* mediaqueries */
 
-@media only screen and (max-width: 680px) {
+@media only screen and (max-width:600px) {
     .sidebar {
         display: none;
     }
@@ -305,4 +303,54 @@ input[type="text"] {
     .ball {
         display: none;
     }
+}
+
+#block {
+  height: 200px;
+}
+
+.block_big {
+  width: 750px;
+  background-color: chocolate;
+  font-size: 20px;
+  color: red;
+  font-weight: bold;
+}
+
+.block_small {
+  width: 500px;
+  background-color: gold;
+  font-size: 20px;
+  color: red;
+  font-weight: bold;
+}
+
+
+.block_1600{
+    width: 750px;
+    background-color: blue;
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
+.block_1200{
+    width: 750px;
+    background-color: black;
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
+.block_750{
+    width: 750px;
+    background-color: orange;
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
+.block_500{
+    width: 750px;
+    background-color: floralwhite;
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
 }

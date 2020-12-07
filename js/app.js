@@ -2,8 +2,8 @@ $(document).ready(function () {
     $('#pagepiling').pagepiling({
         menu: null,
         direction: 'vertical',
-        sectionsColor: ['#f1f2f6', '#f1f2f6', '#f1f2f6', '#f1f2f6'],
-        anchors: ['home-sec', 'about-sec', 'service-sec', 'contact-sec'], //'project-sec' 'testimpny-sec'
+        sectionsColor: ['#f1f2f6', '#f1f2f6', '#f1f2f6', '#f1f2f6', '#f1f2f6'],
+        anchors: ['home-sec', 'about-sec', 'service-sec', 'project-sec', 'testimony-sec', 'contact-sec'],
         menu: '#myMenu',
         scrollingSpeed: 700,
         easing: 'swing',
@@ -12,11 +12,6 @@ $(document).ready(function () {
         touchSensitivity: 5
     });
 
-    // filterizr
-
-    // var filterizd = $('.filter-container').filterizr({
-    //     animationDuration: .5
-    // });
 
     // Slick slider
     $('.slider').slick({
@@ -42,3 +37,12 @@ $(document).ready(function () {
     })
 
 });
+
+function task1(){
+     document.getElementById('demo').style.fontSize= '60px';
+    document.getElementById('ph').style.width = '300px';
+}
+function task2(){
+    document.getElementById('photo').style.width = '60%';
+    document.getElementById('php').style.textAlign = 'center';
+}
